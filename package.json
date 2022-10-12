@@ -1,0 +1,24 @@
+{
+  "name": "cemes",
+  "version": "1.0.0",
+  "description": "Common functionality that compliment AdminLTE template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zunfuyuzora/cemes-js.git"
+  },
+  "keywords": [
+    "adminlte",
+    "cms",
+    "utility"
+  ],
+  "author": "Zun <zunfuyuzora@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/zunfuyuzora/cemes-js/issues"
+  },
+  "homepage": "https://github.com/zunfuyuzora/cemes-js#readme"
+}
